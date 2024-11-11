@@ -1,2 +1,2 @@
 # exercises-dom
-Estudiando el DOM
+Estudiando el DOM con Alex CG
